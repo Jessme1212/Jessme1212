@@ -1,4 +1,4 @@
-# Hello! Welcome to my profile 👋 💗
+# Hello! Welcome to my profile!
 
 <div align="center">
 <img hight="300" width="500" alt="GIF" align="center" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/9f9b1343-bb1a-4b2b-9d66-0c263c007f10">
@@ -7,7 +7,7 @@
 
 # About Me 💬 👩 💻  :
 
-### - I'm currently 23 years old and currently pursing my masters in data science!
+### - I'm currently 23 years old and currently pursing my masters in data science, graduating May 2025!
 
 <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/b15fb56d-096d-4606-8967-c43934ad36e6">
 
@@ -43,11 +43,11 @@
 </br>
 </br>
 
-# Contact Me 📱 :
+# Connect with me:
 <p>
  </br>
 
-<img hight="300" width="400" align="right" alt="GIF" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/26707573-43d5-4786-a55c-083659243249">
+<img hight="250" width="300" align="right" alt="GIF" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/26707573-43d5-4786-a55c-083659243249">
 
 
 If you want to connect and learn from one another just contact me!

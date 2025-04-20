@@ -13,8 +13,6 @@
 - 🌇 Going out to nature and traveling!
 - 🔥 Learning new languages!
 </br>
-</br>
-</br>
 
 # Languages & Tools 👩‍💻 💻 🛠:
 </br>
@@ -36,26 +34,9 @@
 </br>
 
 # Connect with me:
-If you want to connect and learn from one another just contact me!
-
 <a href="mailto:jessicame7079@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/0b5f36e1-96ec-4845-a517-b6b579247766" />
+ <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/0b5f36e1-96ec-4845-a517-b6b579247766" />
 </a>
 <a href="https://www.linkedin.com/in/jessica-meza-perez-b88696184">
  
-  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/683efedd-7a80-44f9-8a71-82c8bddb8e3e" />
-</br>
-</br>
-</br>
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-*************
+  <img align="left" alt="Linkedin" width="100" hight="100" src="https://github.com/Jessme1212/Jessme1212/assets/160553848/683efedd-7a80-44f9-8a71-82c8bddb8e3e" />

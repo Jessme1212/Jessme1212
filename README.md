@@ -58,11 +58,4 @@ If you want to connect and learn from one another just contact me!
 </br>
 </br>
 </br>
-
-<p align="center" >  
-  <a href="https://github.com/Jessme1212/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Jessme1212&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
 *************

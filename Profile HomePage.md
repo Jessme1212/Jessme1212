@@ -1,10 +1,7 @@
 # Hello! Welcome to my profile!
 # About Me 💬 👩 💻  :
 
-### - I'm currently 23 years old and currently pursing my masters in data science, graduating May 2025!
-
-### - Learning :
-- 👩 💻 Data science algorithms and the whole data science realm haha
+### - I have a masters in data science and love data science algorithms and the whole data science realm haha
 
 ### - Hobbies : 
 - 📷 Photography and photoshop!
